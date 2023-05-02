@@ -1,1 +1,2 @@
-# .github
+# Cooper Exchange
+## URL: https://cooperexchange.org
